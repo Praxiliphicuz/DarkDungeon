@@ -1,0 +1,9 @@
+# Python virtual environment
+DungeonEnvironment/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code local settings
+.vscode/
